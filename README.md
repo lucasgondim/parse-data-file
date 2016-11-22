@@ -18,3 +18,9 @@ sell_5_Chigago_2.txt
 trade_10_newOrleans_3.txt
 
 O que precisa ser feito é agrupar os "strategy"/"arena" e somar todos os valores do result dentro do arquivo e calcular essa soma e a média também.
+
+Retorno para os arquivos de exemplo:
+
+[{'arena': 'Chigago', 'result': 2}, {'arena': 'michigan', 'result': 1}, {'arena': 'newOrleans', 'result': 3}, {'arena': 'newYork', 'result': 4}]
+
+[{'result': 2, 'strategy': 'buy'}, {'result': 1, 'strategy': 'give'}, {'result': 4, 'strategy': 'sell'}, {'result': 3, 'strategy': 'trade'}]
